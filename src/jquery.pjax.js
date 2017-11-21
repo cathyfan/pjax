@@ -1,3 +1,4 @@
+//fan test
 /*!
  * pjax(ajax + history.pushState) for jquery
  * 
